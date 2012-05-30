@@ -1,0 +1,5 @@
+An old project about JMF (java media framework)
+
+There is a server and a player, the code is very poor but you can grasp some knowledge from that to move on.
+As far as I remember I did test this server using a MP2 with 48000Hz 128Kbps
+
